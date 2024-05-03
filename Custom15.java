@@ -1,4 +1,4 @@
-// test for clash between field and parameter identifier
+// test allowable clash between field and parameter identifier
 class A {
     public static void main (String [] laskdjflkasjdfkl){
     }
